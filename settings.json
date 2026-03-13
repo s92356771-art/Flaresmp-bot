@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "flaressmp.aternos.me",
+    "port": 44090,
     "version": "",
     "try-creative": false
   },
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "I'm a AFKBOT made by:slobos",
+        "Dont Forget To Drop Me Food!",
+        "Subscribe to him!!"
       ]
     },
     "chat-log": true,
@@ -64,8 +64,8 @@
   },
   "modules": {
     "avoidMobs": true,
-    "combat": true,
-    "beds": false,
+    "combat": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
